@@ -1,0 +1,76 @@
+@font-face {
+  font-family: 'Oswald';
+  src: url('../fonts/Oswald.ttf');
+  font-weight: 410;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Rubik-Regular';
+  src: url('../fonts/Rubik-Regular.ttf');
+  font-weight: 410;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Rubik-Italic';
+  src: url('../fonts/Rubik-Italic.ttf');
+  font-weight: 410;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Rubik-Light';
+  src: url('../fonts/Rubik-Light.ttf');
+  font-weight: 410;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Rubik-LightI';
+  src: url('../fonts/Rubik-LightItalic.ttf');
+  font-weight: 410;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Rubik-Medium';
+  src: url('../fonts/Rubik-Medium.ttf');
+  font-weight: 410;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Rubik-MediumI';
+  src: url('../fonts/Rubik-MediumItalic.ttf');
+  font-weight: 410;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Rubik-Bold';
+  src: url('../fonts/Rubik-Bold.ttf');
+  font-weight: 410;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Rubik-BoldI';
+  src: url('../fonts/Rubik-BoldItalic.ttf');
+  font-weight: 410;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Rubik-Black';
+  src: url('../fonts/Rubik-Black.ttf');
+  font-weight: 410;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Rubik-BlackI';
+  src: url('../fonts/Rubik-BlackItalic.ttf');
+  font-weight: 410;
+  font-style: normal;
+}

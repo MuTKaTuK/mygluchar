@@ -1,0 +1,68 @@
+@charset "UTF-8";
+
+body {
+  background: #0f0f0f;
+  display: flex;
+  width: 100vw;
+}
+
+* {
+  box-sizing: border-box;
+  position: relative;
+  cursor: url('../images/cursor.png') 10 10, auto;
+}
+
+html::-webkit-scrollbar {
+  display: none;
+}
+
+#logo1 {
+  position: absolute;
+  top: 30vh;
+  left: 35vh;
+  display: inline-block;
+  text-align: center;
+}
+
+#logo {
+  margin-right: 10vw;
+  animation: rotate 3s linear infinite;
+}
+
+@keyframes rotate {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(359deg);
+  }
+}
+
+#letsgo {
+  /* padding: 1vw 9vw; */
+  position: absolute;
+  width: 30vw;
+  height: 7vw;
+  background-color: #0f0f0f;
+  bottom: 7.5vw;
+  border-radius: 50px;
+  font-family: Rubik-Bold;
+  font-weight: 700;
+  font-size: 72px;
+  transition: 0.7s;
+  text-decoration: none;
+  list-style: none;
+  color: #fff;
+}
+
+#letsgo:hover {
+  background-color: rgb(255, 0, 0);
+  transition-duration: 0.7s;
+  box-shadow: 0 0 1000px #ffffff3b;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}

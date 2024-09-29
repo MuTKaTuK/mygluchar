@@ -1,0 +1,56 @@
+@font-face {
+    font-family: 'Oswald';
+    src: url("../fonts/Oswald.ttf");
+    font-weight: 410;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ParmigianoPiccoloPro-Bold';
+    src: url("../fonts/ParmigianoPiccoloPro-Bld.otf");
+}
+
+@font-face {
+    font-family: 'ParmigianoPiccoloPro-BoldItalic';
+    src: url("../fonts/ParmigianoPiccoloPro-BldIta.otf");
+}
+
+@font-face {
+    font-family: 'ParmigianoPiccoloPro-Black';
+    src: url("../fonts/ParmigianoPiccoloPro-Blk.otf");
+}
+
+@font-face {
+    font-family: 'ParmigianoPiccoloPro-BlackItalic';
+    src: url("../fonts/ParmigianoPiccoloPro-BlkIta.otf");
+}
+
+@font-face {
+    font-family: 'ParmigianoPiccoloPro-Light';
+    src: url("../fonts/ParmigianoPiccoloPro-Lt.otf");
+}
+
+@font-face {
+    font-family: 'ParmigianoPiccoloPro-LightItalic';
+    src: url("../fonts/ParmigianoPiccoloPro-LtIta.otf");
+}
+
+@font-face {
+    font-family: 'ParmigianoPiccoloPro-Medium';
+    src: url("../fonts/ParmigianoPiccoloPro-Med.otf");
+}
+
+@font-face {
+    font-family: 'ParmigianoPiccoloPro-MediumItalic';
+    src: url("../fonts/ParmigianoPiccoloPro-MedIta.otf");
+}
+
+@font-face {
+    font-family: 'ParmigianoPiccoloPro-Regular';
+    src: url("../fonts/ParmigianoPiccoloPro-Reg.otf");
+}
+
+@font-face {
+    font-family: 'ParmigianoPiccoloPro-RegularItalic';
+    src: url("../fonts/ParmigianoPiccoloPro-RegIta.otf");
+}

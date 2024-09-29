@@ -1,0 +1,11 @@
+<svg width="500" height="500" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+ <g class="layer">
+  <title>Layer 1</title>
+  <path d="m126,413c0,0 -168,-150 43,-194c211,-44 -308,-186 -52,-195c256,-9 569,412 161,452l-152,-63z" fill="#FFFFFF" id="svg_5" stroke="#000000" stroke-dasharray="20" stroke-linejoin="round" stroke-width="7">
+   <animate attributeName="fill" begin="15" dur="25" end="40" repeatCount="15" values="white;red"/>
+   <animate attributeName="fill" begin="15" dur="25" end="40" repeatCount="15" values="green;red"/>
+   <animate attributeName="fill" begin="15" dur="25" end="40" repeatCount="15" values="green;red"/>
+  </path>
+ </g>
+</svg>
